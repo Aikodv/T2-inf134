@@ -1,0 +1,5 @@
+4
+1 reloj
+123 pollofrito
+40 papasfritas
+20 librodealgoritmosenstrings
